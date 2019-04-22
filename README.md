@@ -6,6 +6,7 @@ This is a Java project that is based on Java 11 and uses Spring-boot. Maven is u
 ## Dependencies:
 
 ### Spring dependencies
+
 #### Compile (default)
 spring
 
