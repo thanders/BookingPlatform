@@ -8,21 +8,31 @@ This is a Java project that is based on Java 11 and uses Spring-boot. Maven is u
 ### Spring dependencies
 #### Compile (default)
 spring
+
 spring-boot-starter
+
 spring-boot-starter-actuator
+
 spring-boot-starter-jdbc
+
 spring-boot-starter-security
+
 spring-boot-starter-web
+
 spring-boot-starter-webflux
+
 spring-session-jdbc
 
 #### Runtime (scope)
 spring-boot-devtools
+
 h2
 
 #### Test (scope)
 spring-boot-starter-test
+
 reactor-test
+
 spring-security-test
 
 **Note about Maven dependency scope**:
