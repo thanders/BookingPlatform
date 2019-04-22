@@ -25,7 +25,8 @@ spring-boot-starter-test
 reactor-test
 spring-security-test
 
-**Note about Maven dependency scope**: 
+**Note about Maven dependency scope**:
+
 **Compile** is the default scope. Compile dependencies are available in all classpaths of a project.
 
 **Runtime** - indicates that the dependency is not required for compilation, but is for execution. It is in the runtime and test classpaths, but not the compile classpath.
